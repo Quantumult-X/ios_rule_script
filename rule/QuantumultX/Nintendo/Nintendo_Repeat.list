@@ -1,9 +1,9 @@
 # NAME: Nintendo 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-30 02:58:44
+# UPDATED: 2021-03-03 13:00:52.937268
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# Nintendo 与 Proxy 共 94 条规则重复
+#  与 Game 共 123 条规则重复
 HOST-SUFFIX,100classicbooks.com
 HOST-SUFFIX,ac-pocketcamp.com
 HOST-SUFFIX,amiibo.com
@@ -24,27 +24,50 @@ HOST-SUFFIX,hackyourconsole.com
 HOST-SUFFIX,kirbysepicyarn.com
 HOST-SUFFIX,kirbysuperstarultra.com
 HOST-SUFFIX,kyurem.com
+HOST-SUFFIX,legendofzelda.cn
+HOST-SUFFIX,legendofzelda.com.cn
 HOST-SUFFIX,marioandluigidreamteam.com
 HOST-SUFFIX,mariobroswii.com
+HOST-SUFFIX,mariokart.cn
+HOST-SUFFIX,mariokart.com.cn
 HOST-SUFFIX,mariokart7.com
 HOST-SUFFIX,mariokart8.com
 HOST-SUFFIX,mariosupersluggers.com
 HOST-SUFFIX,miitomo.com
+HOST-SUFFIX,miitomo.com.cn
 HOST-SUFFIX,miiverse.com
 HOST-SUFFIX,nentindo.net
 HOST-SUFFIX,newsupermariobrosu.com
 HOST-SUFFIX,nintendo-europe-sales.com
 HOST-SUFFIX,nintendo-europe.com
+HOST-SUFFIX,nintendo.at
 HOST-SUFFIX,nintendo.be
 HOST-SUFFIX,nintendo.ch
+HOST-SUFFIX,nintendo.co.jp
+HOST-SUFFIX,nintendo.co.kr
+HOST-SUFFIX,nintendo.co.uk
+HOST-SUFFIX,nintendo.co.za
 HOST-SUFFIX,nintendo.com
+HOST-SUFFIX,nintendo.com.hk
 HOST-SUFFIX,nintendo.com.pt
+HOST-SUFFIX,nintendo.de
+HOST-SUFFIX,nintendo.dk
+HOST-SUFFIX,nintendo.es
+HOST-SUFFIX,nintendo.eu
+HOST-SUFFIX,nintendo.fi
+HOST-SUFFIX,nintendo.fr
 HOST-SUFFIX,nintendo.it
 HOST-SUFFIX,nintendo.net
+HOST-SUFFIX,nintendo.nl
+HOST-SUFFIX,nintendo.no
 HOST-SUFFIX,nintendo.pt
+HOST-SUFFIX,nintendo.ru
+HOST-SUFFIX,nintendo.se
+HOST-SUFFIX,nintendo.tw
 HOST-SUFFIX,nintendo3ds.com
 HOST-SUFFIX,nintendodsi.com
 HOST-SUFFIX,nintendoeurope.com
+HOST-SUFFIX,nintendolabo.cn
 HOST-SUFFIX,nintendonetwork.net
 HOST-SUFFIX,nintendonyc.com
 HOST-SUFFIX,nintendostore.com
@@ -80,9 +103,12 @@ HOST-SUFFIX,splatoon2tournament.com
 HOST-SUFFIX,starfox.com
 HOST-SUFFIX,supermario.com
 HOST-SUFFIX,supermario3dworld.com
+HOST-SUFFIX,supermariobros.com.cn
 HOST-SUFFIX,supermariogalaxy.com
 HOST-SUFFIX,supermariorun.com
 HOST-SUFFIX,superpapermario.com
+HOST-SUFFIX,supersmashbros.cn
+HOST-SUFFIX,supersmashbros.com.cn
 HOST-SUFFIX,thelegendarystarfy.com
 HOST-SUFFIX,thewonderful101.com
 HOST-SUFFIX,wariolandshakeit.com
@@ -96,15 +122,8 @@ HOST-SUFFIX,wiisportsresort.com
 HOST-SUFFIX,wiiugamepad.com
 HOST-SUFFIX,wiivc.net
 HOST-SUFFIX,xenoblade.com
+HOST-SUFFIX,xn--mts47c3w9b1qr.cn
 HOST-SUFFIX,xn--mts47c3w9b1qr.net
 HOST-SUFFIX,yoshisnewisland.com
-# Nintendo 与 Global 共 4 条规则重复
-HOST-SUFFIX,nintendo.com
-HOST-SUFFIX,nintendo.net
-HOST-SUFFIX,pokemon.com
-HOST-SUFFIX,supermariorun.com
-# Nintendo 与 BlackList 共 4 条规则重复
-HOST-SUFFIX,nintendo.com
-HOST-SUFFIX,nintendo.net
-HOST-SUFFIX,pokemon.com
-HOST-SUFFIX,supermariorun.com
+HOST-SUFFIX,神奇宝贝.cn
+HOST-SUFFIX,神奇宝贝.net

@@ -1,24 +1,29 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-30 02:58:33
-# DOMAIN-SUFFIX: 66
-# IP-CIDR: 10
-# PROCESS-NAME: 4
+# UPDATED: 2021-03-03 13:00:41.263955
+# DOMAIN-SUFFIX: 74
 # DOMAIN: 2
-# USER-AGENT: 20
-# DOMAIN-KEYWORD: 3
-# TOTAL: 105
+# DOMAIN-KEYWORD: 6
+# USER-AGENT: 21
+# PROCESS-NAME: 3
+# IP-CIDR: 10
+# TOTAL: 116
 DOMAIN,api.smoot.apple.cn
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-icloud.cn
+DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cdn20.com
 DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple.com.mwcloudcdn.com
+DOMAIN-SUFFIX,apple.com.mwcname.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,applemx-icloud.com
@@ -26,10 +31,12 @@ DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
+DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
@@ -70,6 +77,7 @@ DOMAIN-SUFFIX,icloudsecure.net
 DOMAIN-SUFFIX,icloudsetup.com
 DOMAIN-SUFFIX,ios-icloud.com
 DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.com.edgekey.net
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,mylcloud.net
@@ -78,7 +86,10 @@ DOMAIN-SUFFIX,store.apple.com.edgekey.net
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,wwwicloud.com
 DOMAIN-KEYWORD,apple.com.akadns.net
+DOMAIN-KEYWORD,icloud
 DOMAIN-KEYWORD,icloud.com.akadns.net
+DOMAIN-KEYWORD,icoudo
+DOMAIN-KEYWORD,icoudos
 DOMAIN-KEYWORD,testflight
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
@@ -97,7 +108,6 @@ USER-AGENT,*WeatherFoundation*
 USER-AGENT,*com.apple.mobileme.fmip1
 USER-AGENT,AppStore*
 USER-AGENT,AppleNews*
-USER-AGENT,AppleTV*
 USER-AGENT,FMDClient*
 USER-AGENT,FMFD*
 USER-AGENT,FindMy*
@@ -106,11 +116,12 @@ USER-AGENT,Music*
 USER-AGENT,TestFlight*
 USER-AGENT,com.apple.Maps
 USER-AGENT,com.apple.appstored*
+USER-AGENT,com.apple.geod*
 USER-AGENT,com.apple.news*
-USER-AGENT,com.apple.tv*
+USER-AGENT,com.apple.trustd*
 USER-AGENT,fmflocatord*
+USER-AGENT,geod*
 USER-AGENT,locationd*
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,lookupviewservice
 PROCESS-NAME,news
-PROCESS-NAME,storedownloadd

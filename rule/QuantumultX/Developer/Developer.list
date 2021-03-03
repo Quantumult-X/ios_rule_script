@@ -1,14 +1,15 @@
 # NAME: Developer
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-30 02:58:36
-# HOST-SUFFIX: 23
-# TOTAL: 23
+# UPDATED: 2021-03-03 13:00:43.517667
+# HOST-SUFFIX: 24
+# TOTAL: 24
 HOST-SUFFIX,apache.org,Developer
 HOST-SUFFIX,atlassian.com,Developer
 HOST-SUFFIX,docker.com,Developer
 HOST-SUFFIX,elastic.co,Developer
 HOST-SUFFIX,elastic.com,Developer
+HOST-SUFFIX,fontawesome.com,Developer
 HOST-SUFFIX,gcr.io,Developer
 HOST-SUFFIX,gitlab.com,Developer
 HOST-SUFFIX,gitlab.io,Developer

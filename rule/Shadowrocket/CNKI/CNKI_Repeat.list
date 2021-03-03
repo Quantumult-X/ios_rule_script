@@ -1,12 +1,9 @@
 # NAME: CNKI 规则重复情况
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-30 02:58:47
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-03-03 13:00:57.905651
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# CNKI 与 ChinaTest 共 2 条规则重复
-DOMAIN-SUFFIX,bjsbnet.com
-DOMAIN-SUFFIX,cnki.net
-# CNKI 与 CMB 共 17 条规则重复
+#  与 CMB 共 17 条规则重复
 DOMAIN-SUFFIX,bbf.org.cn
 DOMAIN-SUFFIX,bjsbnet.com
 DOMAIN-SUFFIX,chndoi.cn
@@ -24,5 +21,3 @@ DOMAIN-SUFFIX,wuxizazhi.com
 DOMAIN-SUFFIX,wuxizazhi.com.cn
 DOMAIN-SUFFIX,wuxizazhi.net
 DOMAIN-SUFFIX,wuxizazhi.net.cn
-# CNKI 与 Scholar 共 1 条规则重复
-DOMAIN-SUFFIX,cnki.net

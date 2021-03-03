@@ -1,14 +1,14 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-30 02:58:34
-# HOST-SUFFIX: 622
+# UPDATED: 2021-03-03 13:00:43.779504
+# HOST-SUFFIX: 629
 # USER-AGENT: 32
 # HOST: 15
-# IP-CIDR: 4
+# IP-CIDR: 50
 # HOST-KEYWORD: 11
 # IP6-CIDR: 4
-# TOTAL: 688
+# TOTAL: 741
 HOST,analytics.strava.com,China
 HOST,blzddist1-a.akamaihd.net,China
 HOST,cdn.angruo.com,China
@@ -61,6 +61,7 @@ HOST-SUFFIX,acgvideo.com,China
 HOST-SUFFIX,acm.org,China
 HOST-SUFFIX,acs.org,China
 HOST-SUFFIX,adobesc.com,China
+HOST-SUFFIX,agora.io,China
 HOST-SUFFIX,aicoinstorge.com,China
 HOST-SUFFIX,aip.org,China
 HOST-SUFFIX,air-matters.com,China
@@ -174,6 +175,7 @@ HOST-SUFFIX,cnlang.org,China
 HOST-SUFFIX,com-hs-hkdy.com,China
 HOST-SUFFIX,comicat.org,China
 HOST-SUFFIX,conoha.jp,China
+HOST-SUFFIX,coolapk.com,China
 HOST-SUFFIX,cootekservice.com,China
 HOST-SUFFIX,crashlytics.com,China
 HOST-SUFFIX,csdn.net,China
@@ -232,6 +234,7 @@ HOST-SUFFIX,g-cores.com,China
 HOST-SUFFIX,gameloft.com,China
 HOST-SUFFIX,gandi.net,China
 HOST-SUFFIX,gazellegames.net,China
+HOST-SUFFIX,gcloudcs.com,China
 HOST-SUFFIX,gcores.com,China
 HOST-SUFFIX,geetest.com,China
 HOST-SUFFIX,geilicdn.com,China
@@ -253,6 +256,7 @@ HOST-SUFFIX,hddolby.com,China
 HOST-SUFFIX,hdhome.org,China
 HOST-SUFFIX,hdsky.me,China
 HOST-SUFFIX,hdslb.com,China
+HOST-SUFFIX,hicloud.com,China
 HOST-SUFFIX,hitv.com,China
 HOST-SUFFIX,hiwifi.com,China
 HOST-SUFFIX,hkserversolution.com,China
@@ -272,6 +276,8 @@ HOST-SUFFIX,icedropper.com,China
 HOST-SUFFIX,icetorrent.org,China
 HOST-SUFFIX,icevirtuallibrary.com,China
 HOST-SUFFIX,iciba.com,China
+HOST-SUFFIX,icloud-content.com,China
+HOST-SUFFIX,icloud.com,China
 HOST-SUFFIX,idqqimg.com,China
 HOST-SUFFIX,ieee.org,China
 HOST-SUFFIX,iesdouyin.com,China
@@ -405,6 +411,7 @@ HOST-SUFFIX,ngabbs.com,China
 HOST-SUFFIX,nim-lang-cn.org,China
 HOST-SUFFIX,novipnoad.com,China
 HOST-SUFFIX,nssurge.com,China
+HOST-SUFFIX,ntp.org,China
 HOST-SUFFIX,nuomi.com,China
 HOST-SUFFIX,nvidia.com,China
 HOST-SUFFIX,oecd-ilibrary.org,China
@@ -416,7 +423,6 @@ HOST-SUFFIX,onenote.net,China
 HOST-SUFFIX,ooklaserver.net,China
 HOST-SUFFIX,open.cd,China
 HOST-SUFFIX,oracle.com,China
-HOST-SUFFIX,originlab.com,China
 HOST-SUFFIX,osapublishing.org,China
 HOST-SUFFIX,oschina.net,China
 HOST-SUFFIX,oup.com,China
@@ -433,6 +439,7 @@ HOST-SUFFIX,passthepopcorn.me,China
 HOST-SUFFIX,paypal.com,China
 HOST-SUFFIX,paypal.me,China
 HOST-SUFFIX,paypalobjects.com,China
+HOST-SUFFIX,pcbeta.com,China
 HOST-SUFFIX,pgyer.com,China
 HOST-SUFFIX,pingan.com,China
 HOST-SUFFIX,pingan.com.cn,China
@@ -690,9 +697,55 @@ USER-AGENT,hearthstone*,China
 USER-AGENT,hide*,China
 USER-AGENT,ting_en,China
 IP-CIDR,1.255.62.0/24,China
+IP-CIDR,103.65.41.130/32,China
+IP-CIDR,103.65.41.132/32,China
+IP-CIDR,103.65.41.137/32,China
+IP-CIDR,103.65.41.139/32,China
+IP-CIDR,103.65.41.152/32,China
+IP-CIDR,103.65.41.157/32,China
+IP-CIDR,103.65.41.159/32,China
+IP-CIDR,103.65.41.166/32,China
+IP-CIDR,103.65.41.169/32,China
 IP-CIDR,119.28.28.28/32,China
+IP-CIDR,129.227.57.130/32,China
+IP-CIDR,129.227.57.133/32,China
+IP-CIDR,129.227.57.135/32,China
+IP-CIDR,129.227.57.136/32,China
+IP-CIDR,129.227.57.138/31,China
+IP-CIDR,129.227.57.144/32,China
+IP-CIDR,129.227.57.146/31,China
+IP-CIDR,13.230.60.35/32,China
+IP-CIDR,148.153.126.147/32,China
+IP-CIDR,148.153.172.73/32,China
+IP-CIDR,148.153.172.74/31,China
+IP-CIDR,148.153.172.76/31,China
+IP-CIDR,150.109.124.0/23,China
+IP-CIDR,164.52.102.66/31,China
+IP-CIDR,164.52.102.68/31,China
+IP-CIDR,164.52.102.70/32,China
+IP-CIDR,164.52.102.75/32,China
+IP-CIDR,164.52.102.76/31,China
+IP-CIDR,164.52.102.91/32,China
 IP-CIDR,182.254.116.0/24,China
 IP-CIDR,185.188.32.0/22,China
+IP-CIDR,199.190.44.36/31,China
+IP-CIDR,202.181.136.108/32,China
+IP-CIDR,202.226.25.166/32,China
+IP-CIDR,23.98.43.152/32,China
+IP-CIDR,3.0.163.78/32,China
+IP-CIDR,35.156.231.150/32,China
+IP-CIDR,35.168.106.53/32,China
+IP-CIDR,35.178.208.187/32,China
+IP-CIDR,45.40.220.0/22,China
+IP-CIDR,45.40.48.11/32,China
+IP-CIDR,50.18.128.22/32,China
+IP-CIDR,52.178.26.110/32,China
+IP-CIDR,52.194.158.59/32,China
+IP-CIDR,52.221.46.208/32,China
+IP-CIDR,52.52.84.170/32,China
+IP-CIDR,52.58.56.244/32,China
+IP-CIDR,54.178.26.110/32,China
+IP-CIDR,69.28.51.148/32,China
 IP6-CIDR,2a0b:b580::/48,China
 IP6-CIDR,2a0b:b581::/48,China
 IP6-CIDR,2a0b:b582::/48,China

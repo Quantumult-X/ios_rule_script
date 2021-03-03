@@ -1,9 +1,9 @@
 # NAME: Nintendo 规则重复情况
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-30 02:58:48
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-03-03 13:00:57.360600
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# Nintendo 与 Proxy 共 94 条规则重复
+#  与 Game 共 123 条规则重复
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,amiibo.com
@@ -24,27 +24,50 @@ DOMAIN-SUFFIX,hackyourconsole.com
 DOMAIN-SUFFIX,kirbysepicyarn.com
 DOMAIN-SUFFIX,kirbysuperstarultra.com
 DOMAIN-SUFFIX,kyurem.com
+DOMAIN-SUFFIX,legendofzelda.cn
+DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,marioandluigidreamteam.com
 DOMAIN-SUFFIX,mariobroswii.com
+DOMAIN-SUFFIX,mariokart.cn
+DOMAIN-SUFFIX,mariokart.com.cn
 DOMAIN-SUFFIX,mariokart7.com
 DOMAIN-SUFFIX,mariokart8.com
 DOMAIN-SUFFIX,mariosupersluggers.com
 DOMAIN-SUFFIX,miitomo.com
+DOMAIN-SUFFIX,miitomo.com.cn
 DOMAIN-SUFFIX,miiverse.com
 DOMAIN-SUFFIX,nentindo.net
 DOMAIN-SUFFIX,newsupermariobrosu.com
 DOMAIN-SUFFIX,nintendo-europe-sales.com
 DOMAIN-SUFFIX,nintendo-europe.com
+DOMAIN-SUFFIX,nintendo.at
 DOMAIN-SUFFIX,nintendo.be
 DOMAIN-SUFFIX,nintendo.ch
+DOMAIN-SUFFIX,nintendo.co.jp
+DOMAIN-SUFFIX,nintendo.co.kr
+DOMAIN-SUFFIX,nintendo.co.uk
+DOMAIN-SUFFIX,nintendo.co.za
 DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.com.hk
 DOMAIN-SUFFIX,nintendo.com.pt
+DOMAIN-SUFFIX,nintendo.de
+DOMAIN-SUFFIX,nintendo.dk
+DOMAIN-SUFFIX,nintendo.es
+DOMAIN-SUFFIX,nintendo.eu
+DOMAIN-SUFFIX,nintendo.fi
+DOMAIN-SUFFIX,nintendo.fr
 DOMAIN-SUFFIX,nintendo.it
 DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.nl
+DOMAIN-SUFFIX,nintendo.no
 DOMAIN-SUFFIX,nintendo.pt
+DOMAIN-SUFFIX,nintendo.ru
+DOMAIN-SUFFIX,nintendo.se
+DOMAIN-SUFFIX,nintendo.tw
 DOMAIN-SUFFIX,nintendo3ds.com
 DOMAIN-SUFFIX,nintendodsi.com
 DOMAIN-SUFFIX,nintendoeurope.com
+DOMAIN-SUFFIX,nintendolabo.cn
 DOMAIN-SUFFIX,nintendonetwork.net
 DOMAIN-SUFFIX,nintendonyc.com
 DOMAIN-SUFFIX,nintendostore.com
@@ -80,9 +103,12 @@ DOMAIN-SUFFIX,splatoon2tournament.com
 DOMAIN-SUFFIX,starfox.com
 DOMAIN-SUFFIX,supermario.com
 DOMAIN-SUFFIX,supermario3dworld.com
+DOMAIN-SUFFIX,supermariobros.com.cn
 DOMAIN-SUFFIX,supermariogalaxy.com
 DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,superpapermario.com
+DOMAIN-SUFFIX,supersmashbros.cn
+DOMAIN-SUFFIX,supersmashbros.com.cn
 DOMAIN-SUFFIX,thelegendarystarfy.com
 DOMAIN-SUFFIX,thewonderful101.com
 DOMAIN-SUFFIX,wariolandshakeit.com
@@ -96,15 +122,8 @@ DOMAIN-SUFFIX,wiisportsresort.com
 DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,xenoblade.com
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,yoshisnewisland.com
-# Nintendo 与 Global 共 4 条规则重复
-DOMAIN-SUFFIX,nintendo.com
-DOMAIN-SUFFIX,nintendo.net
-DOMAIN-SUFFIX,pokemon.com
-DOMAIN-SUFFIX,supermariorun.com
-# Nintendo 与 BlackList 共 4 条规则重复
-DOMAIN-SUFFIX,nintendo.com
-DOMAIN-SUFFIX,nintendo.net
-DOMAIN-SUFFIX,pokemon.com
-DOMAIN-SUFFIX,supermariorun.com
+DOMAIN-SUFFIX,神奇宝贝.cn
+DOMAIN-SUFFIX,神奇宝贝.net

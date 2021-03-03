@@ -1,9 +1,9 @@
 # NAME: 360
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-30 02:58:38
-# DOMAIN-SUFFIX: 249
-# TOTAL: 249
+# UPDATED: 2021-03-03 13:00:47.971789
+# DOMAIN-SUFFIX: 259
+# TOTAL: 259
 payload:
   - DOMAIN-SUFFIX,0360.cn
   - DOMAIN-SUFFIX,1360.cn
@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,360huzhubao.com
   - DOMAIN-SUFFIX,360huzhubao.com.cn
   - DOMAIN-SUFFIX,360imgcdn.com
+  - DOMAIN-SUFFIX,360jie.com
   - DOMAIN-SUFFIX,360jie.com.cn
   - DOMAIN-SUFFIX,360jiekuan.com.cn
   - DOMAIN-SUFFIX,360jinrong.net
@@ -74,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,360sou.net
   - DOMAIN-SUFFIX,360src.cn
   - DOMAIN-SUFFIX,360src.com
+  - DOMAIN-SUFFIX,360taojin.com
   - DOMAIN-SUFFIX,360totalsecurity.com
   - DOMAIN-SUFFIX,360tpcdn.cn
   - DOMAIN-SUFFIX,360tpcdn.com
@@ -171,6 +173,7 @@ payload:
   - DOMAIN-SUFFIX,kouxin.cn
   - DOMAIN-SUFFIX,kouxin.com
   - DOMAIN-SUFFIX,kouxin.net
+  - DOMAIN-SUFFIX,ludashi.com
   - DOMAIN-SUFFIX,luyou360.cn
   - DOMAIN-SUFFIX,mgamer.cn
   - DOMAIN-SUFFIX,monidata.com
@@ -178,6 +181,7 @@ payload:
   - DOMAIN-SUFFIX,nelab-bdst.org.cn
   - DOMAIN-SUFFIX,nicaifu.com
   - DOMAIN-SUFFIX,nicaifu.net
+  - DOMAIN-SUFFIX,nzwgs.com
   - DOMAIN-SUFFIX,os-lb.com
   - DOMAIN-SUFFIX,passivedns.cn
   - DOMAIN-SUFFIX,qftexpay.cn
@@ -194,6 +198,8 @@ payload:
   - DOMAIN-SUFFIX,qhimgs2.com
   - DOMAIN-SUFFIX,qhimgs3.com
   - DOMAIN-SUFFIX,qhimgs4.com
+  - DOMAIN-SUFFIX,qhimgs5.com
+  - DOMAIN-SUFFIX,qhimgs6.com
   - DOMAIN-SUFFIX,qhmsg.cn
   - DOMAIN-SUFFIX,qhmsg.com
   - DOMAIN-SUFFIX,qhres.com
@@ -235,6 +241,7 @@ payload:
   - DOMAIN-SUFFIX,syscan360.org
   - DOMAIN-SUFFIX,theworld.cn
   - DOMAIN-SUFFIX,urlqh.cn
+  - DOMAIN-SUFFIX,useso.com
   - DOMAIN-SUFFIX,vcloudgtm.cn
   - DOMAIN-SUFFIX,vcloudgtm.com
   - DOMAIN-SUFFIX,vcloudgtm.net
@@ -247,9 +254,12 @@ payload:
   - DOMAIN-SUFFIX,wztsy.cn
   - DOMAIN-SUFFIX,wztsy.com
   - DOMAIN-SUFFIX,xianousiqi.com
+  - DOMAIN-SUFFIX,xiaoluyouxuan.com
+  - DOMAIN-SUFFIX,xiaoluzhidian.com
   - DOMAIN-SUFFIX,xihuan.me
   - DOMAIN-SUFFIX,xjietiao.com
   - DOMAIN-SUFFIX,yiwanzhushou.com
+  - DOMAIN-SUFFIX,youhua.com
   - DOMAIN-SUFFIX,your360loans.com
   - DOMAIN-SUFFIX,yunpan.cn
   - DOMAIN-SUFFIX,yunpan.com

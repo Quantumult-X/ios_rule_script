@@ -1,9 +1,9 @@
 # NAME: Wikipedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-30 02:58:44
+# UPDATED: 2021-03-03 13:00:53.094376
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# Wikipedia 与 Proxy 共 12 条规则重复
+#  与 Wikimedia 共 12 条规则重复
 HOST-SUFFIX,mediawiki.org
 HOST-SUFFIX,wikibooks.org
 HOST-SUFFIX,wikidata.org
@@ -16,13 +16,3 @@ HOST-SUFFIX,wikisource.org
 HOST-SUFFIX,wikiversity.org
 HOST-SUFFIX,wikivoyage.org
 HOST-SUFFIX,wiktionary.org
-# Wikipedia 与 Global 共 5 条规则重复
-HOST-SUFFIX,wikileaks.org
-HOST-SUFFIX,wikimedia.org
-HOST-SUFFIX,wikinews.org
-HOST-SUFFIX,wikipedia.org
-HOST-SUFFIX,wikiquote.org
-# Wikipedia 与 BlackList 共 3 条规则重复
-HOST-SUFFIX,wikileaks.org
-HOST-SUFFIX,wikimedia.org
-HOST-SUFFIX,wikipedia.org

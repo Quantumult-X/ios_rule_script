@@ -1,9 +1,9 @@
 # NAME: Xbox
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-30 02:58:35
-# HOST-SUFFIX: 34
-# TOTAL: 34
+# UPDATED: 2021-03-03 13:00:43.314488
+# HOST-SUFFIX: 35
+# TOTAL: 35
 HOST-SUFFIX,beth.games,Xbox
 HOST-SUFFIX,bethesda.net,Xbox
 HOST-SUFFIX,bethesdagamestudios.com,Xbox
@@ -12,6 +12,7 @@ HOST-SUFFIX,callersbane.com,Xbox
 HOST-SUFFIX,forzamotorsport.net,Xbox
 HOST-SUFFIX,forzaracingchampionship.com,Xbox
 HOST-SUFFIX,forzarc.com,Xbox
+HOST-SUFFIX,gamepass.com,Xbox
 HOST-SUFFIX,minecraft.net,Xbox
 HOST-SUFFIX,minecraftshop.com,Xbox
 HOST-SUFFIX,mojang.com,Xbox

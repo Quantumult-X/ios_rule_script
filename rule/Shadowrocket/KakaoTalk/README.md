@@ -8,17 +8,17 @@
 
 
 
-最后检查时间：2021-01-30 02:59:32。
+最后检查时间：2021-03-03 13:01:40.503820。
 
 ## 规则统计
 
-总计规则：10 条。
+总计规则：14 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 4 |
+| DOMAIN-SUFFIX | 8 |
 | IP-CIDR | 6 |
 ## 配置说明
 
@@ -41,16 +41,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 当前分流规则，未包含其他子规则。
 
 
-当前分流规则，与本项目其他分流规则重复情况统计(点击重复数量可查看明细)。
 
-
-
-| 名称 | 数量 | 重复 | 重合度 |
-| ---- | ---- | ---- | ------ |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Proxy)    | 28076   | [10](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/KakaoTalk/KakaoTalk_Repeat.list)   |   0.04% |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Global)    | 1293   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/KakaoTalk/KakaoTalk_Repeat.list)   |   0.31% |
-|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/BlackList)    | 772   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/KakaoTalk/KakaoTalk_Repeat.list)   |   1.17% |
-|  [Kakao](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Kakao)    | 14   | [10](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/KakaoTalk/KakaoTalk_Repeat.list)   |   71.43% |
+KakaoTalk分流规则，与本项目其他分流规则没有重复。
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
@@ -58,6 +50,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 本项目的KakaoTalk分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的KakaoTalk分流规则混合使用，以免造成规则重复。
 
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Kakao.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/SNS/KakaoTalk.list
 
 

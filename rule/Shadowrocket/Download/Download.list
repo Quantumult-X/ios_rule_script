@@ -1,23 +1,26 @@
 # NAME: Download
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-30 02:58:42
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-03-03 13:00:49.953223
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # PROCESS-NAME: 23
 # DOMAIN-KEYWORD: 5
+# URL-REGEX: 7
 # DOMAIN-SUFFIX: 1
-# URL-REGEX: 4
-# TOTAL: 33
+# TOTAL: 36
 DOMAIN-SUFFIX,smtp
 DOMAIN-KEYWORD,aria2
 DOMAIN-KEYWORD,thunder
 DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,yunpan
+URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|xunlei)(..+)?
+URL-REGEX,(.+.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan).(cn|com)
 URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 URL-REGEX,(Subject|HELO|SMTP)
 URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
+URL-REGEX,(torrent|announce.php\?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=)
 PROCESS-NAME,aria2c
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,baidunetdisk.exe
